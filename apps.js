@@ -1,5 +1,5 @@
 // ── CONFIG — replace these two lines with your Supabase values ──
-const SUPABASE_URL = "https://abbworimoyubnbtodghf.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://abbworimoyubnbtodghf.supabase.co";
 const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFiYndvcmltb3l1Ym5idG9kZ2hmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA2NTYwOTUsImV4cCI6MjA5NjIzMjA5NX0.05-r89k_bNRqTwHJmFI7xUNhHSPAHGEwq3DWiGMkrnk 
 ";
 // ────────────────────────────────────────────────────────────────
